@@ -9,7 +9,7 @@ I am finishing my big TypeScript project, that is a randomized videochat.
 
 ## Contact
 
-Send me an [email](mailto:githubmailto@pwall.anonaddy.com)
+Send me an [email](mailto:githubmailto@pwall.anonaddy.com).
 
 ## Stats
 
