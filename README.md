@@ -1,7 +1,7 @@
 # PWall
 
 Hey there, I'm PWall, I use She/They pronouns! I have coding experience in Python, C, TypeScript and JavaScript.
-I am rocking a Debian 11 system, and I manage two Debian servers, one general porpouse and other as a DNS and DHCP server. I have some experience on home grade networking and Windows.
+I am rocking a Debian 11 system, and I manage two Debian servers, one general purpose and other as a DNS and DHCP server. I have some experience on home grade networking and Windows.
 
 ## Current Situation
 
