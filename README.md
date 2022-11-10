@@ -5,11 +5,11 @@ I am rocking a Debian 11 system, and I manage two Debian servers, one general pu
 
 ## Current Situation
 
-I am finishing my big TypeScript project, that is a randomized videochat.
+I finished my TypeScript project long ago that is available at [OmClient](https://github.com/pwall2222/OmClient), I started working on a lot of stuff like my whole Valorant Python Api project over at [ValUtils](https://github.com/ValUtils) and I also have my contributions to opensource projects in [FlowerAce](https://github.com/FlowerAce).
 
 ## Contact
 
-Send me an [email](mailto:githubmailto@pwall.anonaddy.com).
+Send me an [email](mailto:git@pwall.me).
 
 ## Stats
 
